@@ -4,4 +4,4 @@
 
 ### Get in Touch
 
-[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)]([여러분들 블로그 주소](https://blog.naver.com/qkrqjackdqke))
+[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)]([www.naver.com](https://blog.naver.com/qkrqjackdqke))
