@@ -1,6 +1,9 @@
 # 🤖  안녕하세요. 저는 Jemineia 입니다. 🐯
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jemineia&fontSize=90)
 
-### Get in Touch
+<img src="https://img.shields.io/badge/Spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=##6DB33F"/><img src="https://img.shields.io/badge/SpringBoot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F"/>
 
-[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)]([www.naver.com](https://blog.naver.com/qkrqjackdqke))
+![Jemineia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jemineia&show_icons=true&theme=radical)
+
+
+
